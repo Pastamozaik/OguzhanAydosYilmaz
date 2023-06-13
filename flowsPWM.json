@@ -1,0 +1,24 @@
+[
+    {
+        "id": "6013fb0b.5b7504",
+        "type": "acquisition out",
+        "z": "7b9ed63e.2138f8",
+        "name": "myProbe_Out",
+        "probeconfig": "1b7f8b312d486cb0",
+        "x": 540,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "1b7f8b312d486cb0",
+        "type": "probe",
+        "probeid": "0672FF565588494867112057",
+        "probename": "ST-Link v2 0672FF565588494867112057",
+        "protocol": "SWD",
+        "frequency": "1.8 MHz - Default",
+        "probeproperty": "{\"SWD\":[\"4.6 MHz\",\"1.8 MHz - Default\",\"950 kHz\",\"400 kHz\",\"150 kHz\"],\"JTAG\":[\"18 MHz\",\"9 MHz\",\"4.5 MHz\",\"2.25 MHz\",\"1.12 MHz - Default\",\"560 kHz\",\"280 kHz\",\"140 kHz\"]}",
+        "probeversion": "ST Link firmware version V2.J41",
+        "connectionType": "p2p",
+        "nickname": "probe"
+    }
+]

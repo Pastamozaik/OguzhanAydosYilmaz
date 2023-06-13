@@ -1,0 +1,5 @@
+PartA'yı düzeltmiştim PWM'i Adc ile kodum okuyor bunun üzerine AND perceptronu implement ettim o da çalışıyor.
+
+Düzgün kare dalga aldığıma dair video attım ve weight değerlerimin fotoğrafını yükledim.
+
+USB implement etmeye çalıştım ama çalıştıramadım. Annem hastanede fenalaştığı için yanına gitmem lazımdı.
